@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Weather Apps</string>
+    <string name="input_error_universal">Please fill this input box</string>
+</resources>
